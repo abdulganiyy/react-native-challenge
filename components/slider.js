@@ -87,4 +87,4 @@ const styles = StyleSheet.create({
   },
 });
 
-module.exports = CardSilder;
+export default CardSilder;
